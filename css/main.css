@@ -329,7 +329,7 @@ a {
   display: inline-flex;
   width: 10px;
   height: 6px;
-  background: url("/svg/down-arrow.svg") center no-repeat;
+  background: url("../svg/down-arrow.svg") center no-repeat;
   background-size: contain;
   margin-left: 10px;
 }
@@ -489,7 +489,7 @@ a {
 }
 
 .film-overlay__play {
-  background: rgb(255 255 255 / 31%) url("/svg/play-button.svg") 54% center
+  background: rgb(255 255 255 / 31%) url("../svg/play-button.svg") 54% center
     no-repeat;
   background-size: 30px;
   width: 80px;
