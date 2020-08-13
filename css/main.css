@@ -476,6 +476,11 @@ a {
   fill: #e60b05;
 }
 
+.rating.rating--dislike .rating__icon {
+  transform: rotate(180deg);
+  transform: scale(1, -1);
+}
+
 .remove-like {
   display: inline-flex;
   align-items: center;
